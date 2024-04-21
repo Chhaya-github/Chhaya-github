@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Chhaya-github/Chhaya-github/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Chhaya Khapekar</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
